@@ -42,7 +42,7 @@
     "postcss-preset-env": "^6.7.0",
     "read-pkg": "^7.0.0",
     "serve-favicon": "^2.5.0",
-    "temp-dir": "^2.0.0",
+    "temp-dir": "^3.0.0",
     "write-json-file": "^5.0.0",
     "yn": "^5.0.0"
   },
