@@ -40,7 +40,7 @@
     "path-exists": "^5.0.0",
     "postcss-middleware": "^1.1.4",
     "postcss-preset-env": "^6.7.0",
-    "read-pkg": "^7.0.0",
+    "read-pkg": "^7.1.0",
     "serve-favicon": "^2.5.0",
     "temp-dir": "^2.0.0",
     "write-json-file": "^5.0.0",
