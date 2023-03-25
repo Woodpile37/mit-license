@@ -38,7 +38,7 @@
     "load-json-file": "^7.0.1",
     "path-exists": "^5.0.0",
     "postcss-middleware": "^1.1.4",
-    "postcss-preset-env": "^6.7.0",
+    "postcss-preset-env": "^8.0.1",
     "read-pkg": "^7.1.0",
     "serve-favicon": "^2.5.0",
     "temp-dir": "^3.0.0",
